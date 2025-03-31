@@ -29,7 +29,7 @@ export default function LoginPage() {
       <div className="bg-white p-8 rounded-lg shadow-lg w-96">
         {/* Uso correcto de next/image */}
         <Image
-          src="https://th.bing.com/th/id/R.f28b10bc4643006cbf7d30c43ca7aa21?rik=Psasu37qtY%2f0Qw&pid=ImgRaw&r=0"
+          src="https://codigo.edu.pe/wp-content/uploads/2024/12/que-es-nextjs-y-para-que-sirve-1-1697560678.jpg"
           alt="Login"
           width={384}
           height={160}
